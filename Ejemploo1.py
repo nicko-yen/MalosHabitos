@@ -1,6 +1,6 @@
 def multiplicacion( refactor1, factor2):
-    producto = refactor1 *refactor1
-    return producto
+    productos = refactor1 *refactor1
+    return productos
 
 
 if __main__=="__main__":
